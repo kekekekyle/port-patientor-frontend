@@ -1,6 +1,6 @@
 # Patientor - frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A fork of https://github.com/fullstack-hy2020/patientor. A patient management app written in React TypeScript.
 
 ## Available Scripts
 
